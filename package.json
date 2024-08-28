@@ -16,9 +16,14 @@
     "cypress": "^9.5.0",
     "jest-junit": "^11.1.0",
     "jsdom": "^16.4.0",
+    "micromark": "^4.0.0",
+    "path-browserify": "^1.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "style-loader": "^1.2.1"
+    "react-markdown": "^8.0.7",
+    "replace-ext": "^2.0.0",
+    "style-loader": "^1.2.1",
+    "vfile": "^4.2.1"
   },
   "jest": {
     "moduleNameMapper": {
