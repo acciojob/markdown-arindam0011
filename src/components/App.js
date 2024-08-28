@@ -19,7 +19,7 @@ const App = () => {
 
         </div>
      <div className='preview' style={{width:'50%', height:'100%', backgroundColor: 'lightgray'}}>
-        <p className='loading' style={{fontWeight:'bold', padding:'10px'}}>{loadingText}</p>
+        <h1 className='loading' style={{fontWeight:'bold', padding:'10px'}}>{loadingText}</h1>
      </div>
     </div>
   )
